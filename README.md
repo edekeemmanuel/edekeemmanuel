@@ -1,5 +1,7 @@
 # Hi 👋, I'm Edeke Emmanuel
 ## ebakecode 🤝
+https://ebakecode.web.app/
+![ebakecode](https://img.shields.io/badge/ebakecode-000000?style=for-the-badge&logo=ebakecode&logoColor=red)]
 
 ### 🧑‍💻 About Me
 #### 🧑 A passionate software engineer that enjoy coding and building websites, that is well resourceful and sustainable (readability, testability and maintainability).
