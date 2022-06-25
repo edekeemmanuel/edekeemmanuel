@@ -3,7 +3,7 @@
 
 ### 🧑‍💻 About Me
 #### 🧑 A passionate software engineer that enjoy coding and building websites, that is well resourceful and sustainable (readability, testability and maintainability).
-#### 🎯 Dedicated in enhance my professional skills, capabilities and knowledge in the technology industry and how impactful I can help the society.
+#### 🎯 Dedicated in enhance my professional skills, capabilities and knowledge in the tech world and how impactful I can help the society.
 #### 🏖️ In my free hours, I enjoy listening to music and sport.
 #### 🧗 What keeps me moving in my work ethics, is having this understanding that grace is sufficient to learn and understand all things.
 
