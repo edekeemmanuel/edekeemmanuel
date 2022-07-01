@@ -25,7 +25,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel)](https://github.com/edekeemmanuel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/edekeemmanuel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=compact)](https://github.com/edekeemmanuel)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel)](https://www.edekeemmanuel.dev/)
 <!--
