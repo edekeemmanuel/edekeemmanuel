@@ -9,6 +9,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 #### 🧗 What keeps me moving in my work ethics, is having this understanding that grace is sufficient to learn and understand all things.
 
 
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 <!--
 **edekeemmanuel/edekeemmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
