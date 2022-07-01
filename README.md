@@ -15,6 +15,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 <a href="https://www.linkedin.com/in/ebakecode"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="EBakeCode | LinkedIn" width="21px"/></a>
 <a href="https://mobile.twitter.com/EBakeCode/"><img align="left" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="EBakeCode | Instagram" width="21px"/></a>
 <a href="https://www.facebook.com/EBakeCode/"><img align="left" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="EBakeCode | Facebook" width="21px"/></a>
+<a href="https://instagram.com/ebakecode"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="EBakeCode | Instagram" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
