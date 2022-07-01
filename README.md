@@ -1,4 +1,4 @@
-<img src=”https://i.postimg.cc/MHXqRspx/1653295045740.jpg" alt=”my banner”>
+![banner](https://i.postimg.cc/MHXqRspx/1653295045740.jpg)]
 
 # Hi 👋, I'm Edeke Emmanuel
 ## ebakecode 🤝
