@@ -1,6 +1,5 @@
 ![e1](https://user-images.githubusercontent.com/83608361/176993410-0c4b41aa-8693-4165-b074-971d121f4b02.jpg)
 
-
 # Hi 👋, I'm Edeke Emmanuel
 ## ebakecode 🤝
 Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-the-badge&logo=ebakecode&logoColor=red)](https://ebakecode.web.app/)
@@ -11,7 +10,9 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 #### 🏖️ In my free hours, I enjoy listening to music and engaging in sport activities.
 #### 🧗 What keeps me moving in my work ethics, is having this understanding that grace is sufficient to learn and understand all thing.
 
+
 ### 📫 How to reach me:
+
 
 <a href="https://www.linkedin.com/in/ebakecode"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="EBakeCode | LinkedIn" width="21px"/></a>
 <a href="https://mobile.twitter.com/EBakeCode/"><img align="left" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="EBakeCode | Instagram" width="21px"/></a>
@@ -19,7 +20,8 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 <a href="https://instagram.com/ebakecode"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="EBakeCode | Instagram" width="21px"/></a>
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 
 ## 📈 GitHub Stats 
