@@ -35,7 +35,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel)](https://github.com/edekeemmanuel)
+[![emmanuel github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel)](https://github.com/edekeemmanuel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=compact)](https://github.com/edekeemmanuel)
 
