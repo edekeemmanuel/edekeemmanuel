@@ -1,10 +1,6 @@
 ![banner](https://i.postimg.cc/MHXqRspx/1653295045740.jpg)
+![e1](https://user-images.githubusercontent.com/83608361/176993410-0c4b41aa-8693-4165-b074-971d121f4b02.jpg)
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 
 # Hi 👋, I'm Edeke Emmanuel
 ## ebakecode 🤝
