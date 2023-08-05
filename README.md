@@ -52,12 +52,8 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
   <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/edekeemmanuel">
-  <img style="height:250 !important;" width=450 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A" />
+  <img style="height:300 !important;" width=450 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -67,6 +63,11 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
