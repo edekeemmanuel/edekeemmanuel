@@ -55,8 +55,12 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel&left_color=green&right_color=red)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel)](https://github.com/edekeemmanuel)<!--(https://www.edekeemmanuel.dev/)-->
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel)](https://github.com/edekeemmanuel)
+
+<!--(https://www.edekeemmanuel.dev/)-->
 <!--
 **edekeemmanuel/edekeemmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
