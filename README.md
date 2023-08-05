@@ -48,11 +48,11 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 ## 📈 GitHub Stats 
 
-[![emmanuel github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&theme=dark&background=#4300A8)](https://github.com/edekeemmanuel)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
 
