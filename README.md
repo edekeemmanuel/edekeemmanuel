@@ -49,10 +49,10 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ## 📈 GitHub Stats 
 
 <a href="https://github.com/edekeemmanuel">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight&langs_count=8&card_width=300" />
 </a>
 <a href="https://github.com/edekeemmanuel">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A&langs_count=8&card_width=300" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
