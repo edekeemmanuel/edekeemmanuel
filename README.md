@@ -55,18 +55,24 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
   <img style="height:300 !important;" width=450 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/edekeemmanuel">
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact" />
+</a>
+<a href="https://github.com/edekeemmanuel">
+  <img style="height:300 !important; color: white;" width=450 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
-
-## 📊 WakaTime Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
 
+## 📊 WakaTime Stats
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
