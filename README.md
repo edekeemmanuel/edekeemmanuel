@@ -56,5 +56,5 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
 
-## WakaTimw Stats
+## 📊 WakaTime Stats
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
