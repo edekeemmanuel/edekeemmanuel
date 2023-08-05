@@ -31,6 +31,8 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 </br>
  💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🧲 Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -45,13 +47,15 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 </div>
 
 ## 📈 GitHub Stats 
+
+[![emmanuel github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&theme=dark&background=#4300A8)](https://github.com/edekeemmanuel)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![emmanuel github stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel)](https://github.com/edekeemmanuel)
-
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel&left_color=green&right_color=red)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=edekeemmanuel.edekeemmanuel)](https://github.com/edekeemmanuel)<!--(https://www.edekeemmanuel.dev/)-->
 <!--
 **edekeemmanuel/edekeemmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
