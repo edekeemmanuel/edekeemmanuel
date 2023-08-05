@@ -59,7 +59,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
   <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact" />
 </a>
 <a href="https://github.com/edekeemmanuel">
-  <img style="padding-top: 20px;" height=300 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie" />
+  <img style="padding: 50px;" height=300 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=edekeemmanuel&style=flat-square&color=yellow" alt="views"/>
