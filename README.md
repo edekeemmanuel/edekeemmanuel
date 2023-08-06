@@ -43,17 +43,17 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ## 📈 GitHub Stats 
 
 <a href="https://github.com/edekeemmanuel">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/edekeemmanuel">
-  <img style="height:300 !important;" width=450 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A" />
+  <img height:300 width=400 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A" />
 </a>
 
 <a href="https://github.com/edekeemmanuel">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact&theme=dark&background=#4300A" />
 </a>
 <a style="padding-t2p: 20px;"href="https://github.com/edekeemmanuel">
-  <img  height=300 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&show_icons=true&theme=tokyonight" />
+  <img  height=300 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&show_icons=true&theme=tokyonight" />
 </a>
 
 
