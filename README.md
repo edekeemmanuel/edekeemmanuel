@@ -52,7 +52,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 <a href="https://github.com/edekeemmanuel">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact&theme=dark&background=#4300A" />
 </a>
-<a style="padding-t2p: 20px;"href="https://github.com/edekeemmanuel">
+<a style="padding-top: 20px;"href="https://github.com/edekeemmanuel">
   <img  height=300 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&show_icons=true&theme=tokyonight" />
 </a>
 
@@ -69,7 +69,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/edekeemmanuel/edekeemmanuel/blob/output/github-contribution-grid-snake.gif)
 
