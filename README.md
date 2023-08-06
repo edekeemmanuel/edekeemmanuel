@@ -46,10 +46,10 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 </a>
 
 <a href="https://github.com/edekeemmanuel">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact&theme=dark&background=#4300A" />
 </a>
 <a style="padding-t2p: 20px;"href="https://github.com/edekeemmanuel">
-  <img  height=300 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie" />
+  <img  height=300 width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&show_icons=true&theme=tokyonight" />
 </a>
 
 ### 🔝 Top Contributed Repo
