@@ -71,11 +71,14 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ---
 [![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="300px"/>
+
 <img src="https://raw.githubusercontent.com/edekeemmanuel/edekeemmanuel/output/snake.svg" alt="Snake animation" />
 
 ###
 <a href="https://github.com/edekeemmanuel">
-  <img height=200 width=400 align="center" justify-content="center" src="https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3" />
+  <img align="center" justify-content="center" src="https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3" />
 </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
