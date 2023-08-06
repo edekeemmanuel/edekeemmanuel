@@ -68,14 +68,16 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/edekeemmanuel/edekeemmanuel/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="300px"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
