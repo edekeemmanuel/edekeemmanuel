@@ -77,7 +77,6 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 <img src="https://rm.up.railway.app/" width="300px"/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="300px"/>
