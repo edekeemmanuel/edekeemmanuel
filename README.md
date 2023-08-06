@@ -78,7 +78,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 ###
 <a href="https://github.com/edekeemmanuel">
-  <img display="flex" align="center" justify-content="center" src="https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3" />
+  <img style="display:flex; align:center; justify-content:center;" src="https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3" />
 </a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
