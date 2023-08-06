@@ -69,7 +69,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/edekeemmanuel/edekeemmanuel/blob/output/github-contribution-grid-snake.gif)
 
