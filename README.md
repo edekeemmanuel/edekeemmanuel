@@ -70,7 +70,7 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px"/>
+<img src="https://rm.up.railway.app?user=edekeemmanuel&theme=dark&background=#4300A" width="300px"/>
 
 [![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
 
