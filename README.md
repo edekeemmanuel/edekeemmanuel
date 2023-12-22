@@ -65,46 +65,6 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=edekeemmanuel&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- ### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
--->
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app?user=edekeemmanuel&theme=dark&background=#4300A" width="300px"/>
-
-[![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
-
-![Snake animation](https://github.com/{{edekeemmanuel}}/{{edekeemmanuel}}/blob/output/github-contribution-grid-snake.svg)
-<!--
---
-[![](https://visitcount.itsvg.in/api?id=edekeemmanuel&icon=5&color=3)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/edekeemmanuel/edekeemmanuel/blob/output/github-contribution-grid-snake.gif)
-
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edekeemmanuel&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edekeemmanuel&theme=dark&background=#4300A8)](https://git.io/streak-stats)
-
-## 📊 WakaTime Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edekeemmanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edekeemmanuel&layout=pie&theme=dark&background=#4300A8)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
