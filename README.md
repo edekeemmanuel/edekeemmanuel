@@ -65,9 +65,9 @@ Click me... [![ebakecode](https://img.shields.io/badge/ebakecode-red?style=for-t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=edekeemmanuel&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
+-->
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app?user=edekeemmanuel&theme=dark&background=#4300A" width="300px"/>
